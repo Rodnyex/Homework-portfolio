@@ -12,13 +12,21 @@ header {
     text-align: center;
     width: 11%;
     top: 0%;
-    position: fixed;
+    
     
     
 
 
 }
+nav {
+    right: 100%;
+}
+h1 {
+    background-color: white;
+    color: #4aaaa5;
+    top: 20%;
 
+}
 
 a {
     align-self: right;
