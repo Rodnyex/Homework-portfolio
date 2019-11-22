@@ -1,6 +1,6 @@
 Body {
-    background-color: #ffffff;
-    border-color: #dddddd;
+    background-color: #dddddd;
+    
 }
 
 header {
@@ -30,6 +30,7 @@ h1 {
 
 a {
     align-self: right;
+    color: #666666;
 
     
 }
